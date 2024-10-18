@@ -98,4 +98,4 @@ else:
 
 ## کلمات کلیدی برای بهبود جستجو
 
-زرین‌پال، Zarinpal، درگاه پرداخت، Python Payment Gateway، تایید پرداخت، پرداخت اینترنتی، Zarinpal API، پرداخت آنلاین، Zarinpal Payment
+زرین‌پال، Zarinpal، درگاه پرداخت، Python Payment Gateway، تایید پرداخت، پرداخت اینترنتی، Zarinpal API، پرداخت آنلاین، Zarinpal Payment, زرین پال جنگوو زرین پال فلسک, زرین پال پایتون
